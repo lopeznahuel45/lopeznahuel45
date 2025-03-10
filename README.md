@@ -30,7 +30,7 @@
 
 <p align="center">
 <br>
-<a href="www.linkedin.com/in/nahuel-lopez-393736302"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/nahuel-lopez-393736302/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://x.com/nahuel09lopez11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://instagram.com/lopezito.z" target="_blank"><img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>&nbsp;
 <a href="mailto:nahuellopez3711@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
